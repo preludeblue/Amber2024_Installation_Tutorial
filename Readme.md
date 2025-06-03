@@ -189,6 +189,8 @@ make install -j$(nproc)
 ```
 
 > ⚠️ **Note**: This may take a while and will use 100% of your CPU. If it completes too quickly or shows errors, investigate further.
+> Final result should look like this
+![alt text](https://github.com/preludeblue/Amber-24-Installation-Guide/blob/main/setup/step_6_run_cmake.png?raw=true))
 
 ---
 
@@ -214,6 +216,7 @@ make install -j$(nproc)
 ```
 
 ---
+
 
 ## 💾 STEP 9 – Backup Your WSL
 
