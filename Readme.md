@@ -62,6 +62,10 @@ sudo apt update && sudo apt upgrade -y
    ```bash
    sh cmake-<version>-linux-x86_64.sh
    ```
+   also run
+   ```bash
+   sudo apt install cmake
+   ```
    Follow the prompts and accept the license with `y`.
 
 ---
